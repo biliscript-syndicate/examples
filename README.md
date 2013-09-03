@@ -1,3 +1,12 @@
+Demos
+=====
+
+- `FSAA.as` A demo of Full-Scene Anti-Aliasing. Lines drawn by Flash runtime show greater aliasing at 45 degree.
+- `Minecraft4K.as` A port of Notch's Minecraft4K; demostrating: procedural texture generation, texture mapping, manual 3D raycasting. The engine of biliscript sucks at performance. The FPS here is ~0.5.
+- `u15transport.as` base32768 encoder and decoder, operating on a ByteArray.
+- `TKKN.as` [A port of TKKN](http://www.bilibili.tv/video/av376363/), a bullet hell game; demostrating: base64 decoding, keyboard input, image materials, collision detection, BitmapData texture.
+
+
 脚本样例
 ========
 
