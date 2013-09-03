@@ -1,6 +1,8 @@
 Demos
 =====
 
+All code is expected to run in the [Bilibili](http://en.wikipedia.org/wiki/Bilibili) [Flash Player](https://static-s.bilibili.tv/play.swf) (account required).
+
 - `FSAA.as` A demo of Full-Scene Anti-Aliasing. Lines drawn by Flash runtime show greater aliasing at 45 degree.
 - `Minecraft4K.as` A port of Notch's Minecraft4K; demostrating: procedural texture generation, texture mapping, manual 3D raycasting. The engine of biliscript sucks at performance. The FPS here is ~0.5.
 - `u15transport.as` base32768 encoder and decoder using some unicode codepoints as the alphabet, operating on a ByteArray.
